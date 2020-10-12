@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.421
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trivia", "Trivia\Trivia.csproj", "{299F5DA4-E083-4739-89D7-476772744774}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trivia", "Trivia\Trivia.csproj", "{799CE490-36E4-40CC-9678-E3D8C5566A25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{299F5DA4-E083-4739-89D7-476772744774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{299F5DA4-E083-4739-89D7-476772744774}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{299F5DA4-E083-4739-89D7-476772744774}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{299F5DA4-E083-4739-89D7-476772744774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799CE490-36E4-40CC-9678-E3D8C5566A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799CE490-36E4-40CC-9678-E3D8C5566A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799CE490-36E4-40CC-9678-E3D8C5566A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799CE490-36E4-40CC-9678-E3D8C5566A25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {649008E1-1C08-465E-B698-A3867087828A}
+		SolutionGuid = {39428A07-473C-4F23-9F7F-B81D9AE520E3}
 	EndGlobalSection
 EndGlobal
