@@ -18,3 +18,12 @@ You can read more about Tennis scores [here](http://en.wikipedia.org/wiki/Tennis
 4. If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is "Advantage" for the player in the lead.
 
 You need only report the score for the current game. Sets and Matches are out of scope.
+
+## Questions to discuss afterwards
+
+* How did it feel to work with such fast, comprehensive tests?
+* Did you make mistakes while refactoring that were caught by the tests?
+* If you used a tool to record your test runs, review it. Could you have taken smaller steps? Made fewer refactoring mistakes?
+* Did you ever make any refactoring mistakes and then back out your changes? How did it feel to throw away code?
+* What would you say to your colleague if they had written this code?
+* What would you say to your boss about the value of this refactoring work? Was there more reason to do it over and above the extra billable hour or so?
